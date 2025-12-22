@@ -1,10 +1,10 @@
-# Anisotropic Cellular Forces Drive Hexagonal-to-Tetragonal Tiling Transitions in the *Drosophila* Eye
+# Deep Learning-based Differentiation of Drug-induced Liver Injury and Autoimmune Hepatitis: A Pathological and Computational Approach
 
 This repository contains the source code used in the study:
 
-**“Anisotropic Cellular Forces Drive Hexagonal-to-Tetragonal Tiling Transitions in the *Drosophila* Eye”**
+**“Deep Learning-based Differentiation of Drug-induced Liver Injury and Autoimmune Hepatitis: A Pathological and Computational Approach”**
 
-The code supports image preprocessing, deep learning–based classification, explainable AI analysis, and dimensionality reduction of cellular morphology data derived from *Drosophila* eye tissues.
+The code supports image preprocessing, deep learning–based classification, explainable AI analysis, and dimensionality reduction of pathological image data.
 
 
 ## Repository Structure
@@ -24,9 +24,9 @@ Convolutional Neural Network (CNN) implementation for classification tasks.
 
 This folder includes:
 - Training scripts
-- Test / evaluation scripts
+- Test scripts
 - Model architecture definitions
-- Performance evaluation outputs (e.g., accuracy, confusion matrices)
+- Performance evaluation outputs
 
 ### 3. `GradCAM_GuidedBP/`
 Explainable AI analyses for visualizing CNN decision-making.
@@ -49,13 +49,9 @@ Includes scripts for:
 - Python (if applicable to specific scripts)
 - Standard scientific Python libraries (NumPy, SciPy, scikit-learn, etc.)
 
-Details may vary depending on the specific analysis step.
-
-
 ## Notes
 - This repository is provided for research and reproducibility purposes.
 - The code corresponds to the version used in the submitted manuscript; future updates may refine structure or documentation.
-
 
 ## Contact
 For questions regarding the code or the study, please contact the corresponding author.
